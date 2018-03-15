@@ -1,0 +1,71 @@
+body {
+    direction: rtl;
+    background-image: url('../images/day dreaming_d-r.jpg');
+}
+
+
+h1 {
+   font-weight: bold;
+    color: darkblue;
+    text-align: center;
+    font-size: 40px;
+    padding: 20px 11px 16px 0px;
+    
+}
+
+ #p1 {
+     font-weight: bold;
+     color:black;
+     text-align:center;
+     font-size:30px; 
+ }
+ #p2, ul {
+ list-style-type:square;
+font-family: Arial;
+color: black;
+font-weight: bold;
+text-align:right;
+font-size: 30px;
+ }  
+
+#h2 {
+    color:darkblue;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 10px 16px 6px;
+    
+}
+#p3{
+    color:black;
+    font-weight:bold;
+    text-align:right;
+    font-size:25px;
+    padding:20px 10px 16px 6px;
+}
+#h3
+{
+    color: darkblue;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 11px 16px 0px;
+}
+ figure #p4 {
+    background-image: url('../images/WhatsApp Image 2018-03-15 at 12.00.10.jpeg');
+    background-position-x:center;
+    background-position-y:center;
+}
+ #h4
+ {
+     color: darkblue;
+     font-weight:bold;
+     text-align:center;
+     font-size: 30px;
+ }
+
+
+
+
+
+
+
